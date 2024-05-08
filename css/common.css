@@ -85,3 +85,22 @@ body {
   object-fit: cover;
   border-style: none;
 }
+
+input {
+  display: block;
+  color: var(--dark-gray);
+  font-size: 16px;
+  line-height: 1.5;
+  min-width: 360px;
+  padding: 8px 16px;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+}
+
+h1 {
+  color: var(--dark-gray);
+  font-size: 24px;
+  line-height: 1.25;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
